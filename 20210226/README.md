@@ -17,6 +17,13 @@ npm install
 ### Run the project
 
 ```
+npm ci
+npm start
+```
+
+_or_  
+
+```
 npm ci && npm start
 ```
 
