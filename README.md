@@ -1,9 +1,7 @@
 # :link: [Erick Wendel](https://erickwendel.com.br/)
 ###### :octocat: [Erick Wendel on GitHub](https://github.com/ErickWendel)  
-<br>
 
 ## :mortar_board: [Courses](https://cursos.erickwendel.com.br/)
-<br>
 
 ## :tv: [YouTube](https://www.youtube.com/ErickWendelTreinamentos)
 <br>
