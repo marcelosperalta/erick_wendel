@@ -1,7 +1,4 @@
 # :link: [Erick Wendel](https://erickwendel.com.br/)
-
-_Filipe Deschamps YouTube channel content_  
-
 ###### :octocat: [Erick Wendel on GitHub](https://github.com/ErickWendel)  
 <br>
 
