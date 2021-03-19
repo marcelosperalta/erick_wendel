@@ -5,7 +5,6 @@
 ## :mortar_board: [Courses](https://cursos.erickwendel.com.br/)
 
 ## :tv: [YouTube](https://www.youtube.com/ErickWendelTreinamentos)
-<br>
 
 #javascript #MediaRecorder #ECMAScriptModules  
 :link: [Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules](./20210226)  
